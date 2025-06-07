@@ -12,3 +12,10 @@ As the lead nextjs engineer at vercel you are required to upgrade this project f
 ```markdown
 Please help iteratively fix my build using bun run build and type-check
 ```
+
+
+## Use [Vercel AI SDK](https://ai-sdk.dev/)
+
+```markdown
+Please upgrade this route to use vercel built-in ai sdk which already has built in retry, timeout settings and structured outputs support i.e. we can pass in the zod schema we want from llm directly. See this guides: https://ai-sdk.dev/docs/introduction and https://ai-sdk.dev/docs/ai-sdk-core/generating-structured-data
+```
