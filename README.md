@@ -4,8 +4,6 @@
 
 Welcome to my personal vault of AI prompts! This is where I keep the magic spells I use to bend AI models to my will — for coding, creating, thinking, and occasionally just having fun.
 
-Whether you’re building production apps, talking to your autonomous agent sidekick, or whispering instructions to Copilot, this repo has a little something for every prompt wrangler out there.
-
 ⸻
 
 ## 📦 What’s Inside
