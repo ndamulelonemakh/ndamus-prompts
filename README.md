@@ -4,6 +4,10 @@
 
 Welcome to my personal vault of AI prompts! This is where I keep the magic spells I use to bend AI models to my will — for coding, creating, thinking, and occasionally just having fun.
 
+![Prompting Basics](./copilot-chat-prompt-example.png) 
+
+*(Image Credit:[Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/employ-copilot-assistant/3-write-effective-prompts-optimize-copilot-responses?))*
+
 ⸻
 
 ## 📦 What’s Inside
@@ -30,15 +34,12 @@ GNU General Public License v3.0 — feel free to fork, remix, and share with pro
 
 ⸻
 
-## ✍️ About
-
-Made with ☕, 🤘, and a dash of creativity.ts
-by Ndamulelo Nemakhavhani
-
-⸻
-
 🚀 Bonus Nerd Tip
 
 > If you’re not versioning your prompts, are you even prompt engineering?
 
 ⸻
+
+
+*Made with ☕, 🤘, and a dash of creativity.ts
+by Ndamulelo Nemakhavhani*
