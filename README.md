@@ -1,45 +1,51 @@
-# 🤖 Ndamu’s Public AI Prompts
+# AI Coding Prompts Collection
 
-> "Prompts are the new code.” – probably someone on Twitter
+A curated repository of Agentic AI Coding prompts for development, automation, and creative workflows.
 
-Welcome to my personal vault of AI prompts! This is where I keep the magic spells I use to bend AI models to my will — for coding, creating, thinking, and occasionally just having fun.
+## Overview
 
-![Prompting Basics](./copilot-chat-prompt-example.png) 
+This collection contains my preffered prompts and instruction sets designed for modern AI development environments.
 
-*(Image Credit:[Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/employ-copilot-assistant/3-write-effective-prompts-optimize-copilot-responses?))*
+## Contents
 
-⸻
+### 🚀 Development Workflows
+- **Next.js/REACT Enhancement Prompts** - Optimized prompts for modern React applications
+- **Python Prompts** - Prompts tailored for Python-heavy applications
+- **Asynchronous Agent Frameworks** - e.g. Jules background coding agents etc.
+- **GitHub Copilot Instructions** - Custom instruction sets and prompt snippets
 
-## 📦 What’s Inside
+### 📁 Repository Structure
+```
+├── Chatbots.md                    # Chatbot development prompts
+├── github-copilot.md             # Copilot configuration & best practices
+├── jules.md                       # Asynchronous agent prompts
+├── next-js-vibe-coding.md        # Next.js development workflows
+├── rules.python.md               # Python-specific guidelines
+└── context_engineering/          # Advanced prompt engineering tools
+```
 
-A growing collection of well-tested prompts I use daily across various AI tools and environments:
+## Usage
 
--	✨ nextjs-vibe-coding/ – Prompts to give your Next.js apps that extra shine.
--	🤖 jules-async-agent/ – Prompts that power my experimental asynchronous agent, Jules.
--	🧠 copilot-instructions/ – Copilot prompt snippets and custom instruction sets that actually work.
+Each prompt file includes:
+- **Context** - When and where to use the prompt
+- **Implementation** - Ready-to-use prompt text  
+- **Customization** - Adaptation guidelines for your specific needs
 
-⸻
+## Getting Started
 
-## 🧪 Experimental & Evolving
+1. Browse the collection to find prompts relevant to your use case
+2. Copy the prompt text and adapt variables/parameters as needed
+3. Test in your AI environment and iterate for optimal results
+4. Consider contributing improvements if you can
 
-This repo is living. I tweak prompts often, and many are still experimental. Expect everything from enterprise-grade task automation to wild ideas that only make sense at 2AM.
+## Contributing
 
-*Pull requests and issue suggestions are welcome.*
+Contributions are welcome!
 
-⸻
+## License
 
-## 📜 License
+GNU General Public License v3.0 - See [LICENSE](LICENSE) for details.
 
-GNU General Public License v3.0 — feel free to fork, remix, and share with proper attribution.
+---
 
-⸻
-
-🚀 Bonus Nerd Tip
-
-> If you’re not versioning your prompts, are you even prompt engineering?
-
-⸻
-
-
-*Made with ☕, 🤘, and a dash of creativity.ts
-by Ndamulelo Nemakhavhani*
+**Maintained by [Ndamulelo Nemakhavhani](https://github.com/ndamulelonemakh)**
