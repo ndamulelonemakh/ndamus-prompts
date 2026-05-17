@@ -1,0 +1,1 @@
+/speckit-constitution Create principles focused on: FastAPI/React stack conventions, test-first development, security-first (no secrets in logs, parameterised queries), AI enrichment quality, and self-hosted deployment constraints for Hetzner.
